@@ -4,7 +4,7 @@ main:
   - title: "Publications and Invited Talks"
     url: "/publications/"
   - title: "CV"
-    url: "/projects/"
+    url: "resume.pdf"
 
 footer:
   - title: "GitHub"
