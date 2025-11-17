@@ -5,10 +5,6 @@ main:
     url: "/publications/"
   - title: "CV"
     url: "/projects/"
-  - title: "Students"
-    url: "/students/"
-  - title: "Recruitment"
-    url: "/recruitment/"
 
 footer:
   - title: "GitHub"
