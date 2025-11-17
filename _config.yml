@@ -1,0 +1,61 @@
+title: "Your Name"
+email: "your.email@domain.com"
+description: "Researcher in X | Interested in Y and Z"
+baseurl: ""
+url: "https://yourusername.github.io"
+
+author:
+  name: "Your Name"
+  avatar: "images/profile.jpg"
+  bio: "Short professional bio goes here."
+  location: "City, Country"
+  email: "your.email@domain.com"
+  google_scholar: "https://scholar.google.com/"
+  github: "https://github.com/yourusername"
+  twitter: "https://twitter.com/yourhandle"
+  linkedin: "https://linkedin.com/in/yourprofile"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/posts/page:num/"
+
+collections:
+  publications:
+    output: true
+  projects:
+    output: true
+  students:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "students"
+    values:
+      layout: "student"

@@ -1,0 +1,23 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Mission & Values"
+    url: "/mission_and_values/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Students"
+    url: "/students/"
+  - title: "Recruitment"
+    url: "/recruitment/"
+  - title: "About"
+    url: "/about/"
+
+footer:
+  - title: "GitHub"
+    url: "https://github.com/yourusername"
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/"
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/yourprofile"
