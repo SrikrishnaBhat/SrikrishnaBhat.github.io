@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: "/"
   - title: "Publications and Invited Talks"
-    url: "/_publications/"
+    url: "/publications/"
   - title: "CV"
     url: "/assets/resume.pdf"
   - title: "Experiences"
