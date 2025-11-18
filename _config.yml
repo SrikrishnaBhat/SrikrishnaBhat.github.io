@@ -1,15 +1,14 @@
-title: "Srikrishna Bhat"
-email: "bhat.srikrishna11@gmail.com"
-description: "Researcher in X | Interested in Y and Z"
-baseurl: ""
-url: "https://Srikrishna.github.io"
+#title: "Srikrishna Bhat"
+#email: "bhat.srikrishna11@gmail.com"
+#description: "Computer Scientist | Interested in Brain-Computer Interfaces, Machine Learning and Cognitive Psychology"
+#baseurl: ""
+#url: "https://Srikrishna.github.io"
 
 author:
-  name: "Your Name"
+  name: "Srikrishna Bhat"
   avatar: "images/profile.jpg"
-  bio: "Short professional bio goes here."
-  location: "City, Country"
-  email: "your.email@domain.com"
+  bio: "BCI and HCI Scientist interested in exploring technologies that empathise with the human condition and augment/aid humans."
+  email: "bhat.srikrishna11@gmail.com"
   google_scholar: "https://scholar.google.com/"
   github: "https://github.com/yourusername"
   twitter: "https://twitter.com/yourhandle"
@@ -22,10 +21,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-paginate: 10
-paginate_path: "/posts/page:num/"
-#navigation:
-#  main: "/_data/navigation.yml"
+# paginate: 10
+# paginate_path: "/posts/page:num/"
+navigation:
+  main: "/_data/navigation.yml"
 
 #collections:
 #  publications:
