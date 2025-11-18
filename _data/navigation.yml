@@ -2,9 +2,11 @@ main:
   - title: "About Me"
     url: "/"
   - title: "Publications and Invited Talks"
-    url: "/pages/"
+    url: "/_publications/"
   - title: "CV"
     url: "/assets/resume.pdf"
+  - title: "Experiences"
+    url: "/experiences/"
 
 footer:
   - title: "GitHub"
