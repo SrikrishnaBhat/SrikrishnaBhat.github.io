@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Experiences"
+---
 # Industry Experience
 **Jan 2019 — Feb 2022**     **Senior Software Engineer (Band 7A), IBM India Software Labs**
                             *Bengaluru, Karnataka, India*

@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Publications and Invited Talks"
+---
 # Publications
 
 **2023**     **[Multi-modal classification of cognitive load in a VR-based training system.](https://ieeexplore.ieee.org/document/10316503).**
