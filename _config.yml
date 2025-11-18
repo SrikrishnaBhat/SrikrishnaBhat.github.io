@@ -26,13 +26,13 @@ plugins:
 navigation:
   main: "/_data/navigation.yml"
 
-#collections:
-#  publications:
-#    output: true
-#  projects:
-#    output: true
-#  students:
-#    output: true
+collections:
+  publications:
+    output: true
+  experiences:
+    output: true
+  CV:
+    output: true
 
 defaults:
   - scope:
