@@ -4,7 +4,7 @@
              **Srikrishna S. Bhat**, Chelsea Dobbins, Arindam Dey, Ojaswa Sharma
              *ISMAR*
 **2017**     **[Intrusion Detection in Connected Cars](https://ieeexplore.ieee.org/abstract/document/8053416)**
-             Roland E. Haas, Dietmar P.F. Möller, Prateek Bansal, Rahul Ghosh, **Srikrishna S Bhat**
+             Roland E. Haas, Dietmar P.F. MÃ¶ller, Prateek Bansal, Rahul Ghosh, **Srikrishna S Bhat**
              *EIT*
 **2016**     **[O(1) time sorting algorithms using spiking neurons](https://ieeexplore.ieee.org/abstract/document/7727312)**
              Samya Bagchi, **Srikrishna S Bhat**, Atul Kumar.
